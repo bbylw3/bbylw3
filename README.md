@@ -133,7 +133,7 @@ export const explorer = {
   </tr>
 </table>
 
-<!-- ================= 04. GITHUB STATS & TOP CONTRIBUTIONS (双栏 2x2 暗金仪表盘) ================= -->
+<!-- ================= 04. GITHUB STATS & TELEMETRY (双栏 2x2 暗金仪表盘) ================= -->
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
@@ -149,13 +149,13 @@ export const explorer = {
 
 <table width="100%">
   <tr>
-    <td width="45%" align="center" valign="middle">
+    <td width="48%" align="center" valign="middle">
       <p align="left"><kbd>07</kbd> &nbsp; <samp><b>TOP LANGUAGES · 常用语言占比</b></samp></p>
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbylw3&theme=dark&bg_color=0D1117&title_color=E2B714&text_color=94A3B8&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
     </td>
-    <td width="55%" align="center" valign="middle">
-      <p align="left"><kbd>08</kbd> &nbsp; <samp><b>TOP CONTRIBUTED REPO · 活跃贡献仓库</b></samp></p>
-      <img width="100%" src="https://github-contributor-stats.vercel.app/api?username=bbylw3&limit=5&theme=dark&bg_color=0D1117&title_color=E2B714&text_color=94A3B8&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+    <td width="52%" align="center" valign="middle">
+      <p align="left"><kbd>08</kbd> &nbsp; <samp><b>CODING RHYTHM · 24H 活跃时段分布</b></samp></p>
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bbylw3&theme=github_dark&utcOffset=8&bg_color=0D1117&title_color=E2B714&text_color=94A3B8&chart_color=E2B714&border_color=0D1117" alt="Productive Time" />
     </td>
   </tr>
 </table>
@@ -165,7 +165,7 @@ export const explorer = {
   <tr>
     <td align="center" valign="middle">
       <p align="left"><kbd>09</kbd> &nbsp; <samp><b>CONTRIBUTION TELEMETRY · 全景代码探索轨迹</b></samp></p>
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bbylw3&bg_color=0D1117&color=94A3B8&line=E2B714&point=F8FAFC&area=true&hide_border=true&custom_title=STEP%20BY%20STEP%20PROGRESS%20%C2%B7%20%E4%B8%80%E6%AD%A5%E4%B8%80%E4%B8%AA%E8%84%9A%E5%8D%B0" alt="Activity Graph" />
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bbylw3&theme=github_dark&bg_color=0D1117&title_color=E2B714&text_color=94A3B8&icon_color=E2B714&chart_color=E2B714&border_color=0D1117" alt="Activity Graph" />
     </td>
   </tr>
 </table>
