@@ -10,12 +10,12 @@
 
 <br/>
 
-<!-- 顶部高定曜石黑状态铭牌 -->
+<!-- 顶部高定曜石黑状态铭牌（全量采用官方 Shields.io 节点，单行黄金宽度防换行） -->
 <p align="center">
-  <img src="https://img.shields.io/badge/PARADIGM-AI_ASSISTED_CRAFT-1E293B?style=for-the-badge&labelColor=090D16&logo=sparkles&logoColor=E2B714" alt="Paradigm" />
-  <img src="https://img.shields.io/badge/SUPERPOWER-COPY_%26_PASTE_%2B_AI-1E293B?style=for-the-badge&labelColor=090D16&logo=gnubash&logoColor=38BDF8" alt="Workflow" />
-  <img src="https://img.shields.io/badge/FOCUS-DEBUGGING_%26_LOGIC-1E293B?style=for-the-badge&labelColor=090D16&logo=statuspage&logoColor=10B981" alt="Status" />
-  <img src="https://komarev.com/ghpvc/?username=bbylw3&label=VISITS&color=1E293B&style=for-the-badge&labelColor=090D16" alt="Views" />
+  <img src="https://img.shields.io/badge/MODE-AI_CO--PILOT-1E293B?style=for-the-badge&labelColor=090D16&logo=googlegemini&logoColor=E2B714" alt="Mode" />
+  <img src="https://img.shields.io/badge/SKILL-COPY_%26_PASTE-1E293B?style=for-the-badge&labelColor=090D16&logo=gnubash&logoColor=38BDF8" alt="Workflow" />
+  <img src="https://img.shields.io/badge/FOCUS-DEBUG_%26_LOGIC-1E293B?style=for-the-badge&labelColor=090D16&logo=statuspage&logoColor=10B981" alt="Focus" />
+  <img src="https://img.shields.io/badge/STAGE-ZERO_TO_ONE-1E293B?style=for-the-badge&labelColor=090D16&logo=github&logoColor=F8FAFC" alt="Stage" />
 </p>
 
 </div>
